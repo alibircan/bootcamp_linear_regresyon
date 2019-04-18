@@ -1,0 +1,7 @@
+1) Kişi başına düşen milli gelir, bir tür sürekli sonuç değişkeni olduğu için kategorik bir değişken olmadığı için problem bir regresyon problemidir.
+
+2) Aşağıdaki argümanlardan hangileri yanlıştır ve neden?
+a) OLS, özel bir doğrusal regresyon modelidir. -> Yanlış. OLS, bir algorithmadır.
+b) Regresyon modelleri, doğrusal regresyon varsayımlarını karşılamıyorsa kullanışsız hale gelir. -Doğru. Bu koşulları kontrol edip, uymayan koşullar için modelinizi düzeltilmeye çalışılması gerekir.
+c) Estimation ve prediction, doğrusal regresyon modelleri bağlamında aynı şeydir. -Yanlış. Estimation kavramı model parametrelerinin tahmnin için kullanılırken, prediction hedef değişkenin eldeki veriden tahmini için kullanılır
+d) Doğrusal regresyon modeli sadece bir tür regresyon modelidir. Regresyon problemleri, Support Vector Machines veya Random Forests gibi başka modellerle de çözülebilir. -Doğru.
