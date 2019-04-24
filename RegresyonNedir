@@ -2,6 +2,6 @@
 
 2) Aşağıdaki argümanlardan hangileri yanlıştır ve neden?
 a) OLS, özel bir doğrusal regresyon modelidir. -> Yanlış. OLS, bir algorithmadır.
-b) Regresyon modelleri, doğrusal regresyon varsayımlarını karşılamıyorsa kullanışsız hale gelir. -Doğru. Bu koşulları kontrol edip, uymayan koşullar için modelinizi düzeltilmeye çalışılması gerekir.
+b) Regresyon modelleri, doğrusal regresyon varsayımlarını karşılamıyorsa kullanışsız hale gelir. -Yanlış. Kullanılma amacına göre varsayımların kontrol edilmesi gerekir. Tahmin üretmek için bazı varsayımlar önemli olmayabilir. Ancak açıklayıcı bilgi üretmek amaçlı varsayımlar önemli olabilir. Bu koşulları kontrol edip, uymayan koşullar için modelinizi düzeltilmeye çalışılması gerekir.
 c) Estimation ve prediction, doğrusal regresyon modelleri bağlamında aynı şeydir. -Yanlış. Estimation kavramı model parametrelerinin tahmnin için kullanılırken, prediction hedef değişkenin eldeki veriden tahmini için kullanılır
 d) Doğrusal regresyon modeli sadece bir tür regresyon modelidir. Regresyon problemleri, Support Vector Machines veya Random Forests gibi başka modellerle de çözülebilir. -Doğru.
